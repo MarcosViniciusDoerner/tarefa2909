@@ -1,0 +1,11 @@
+body{
+    background-color: lightgray;
+}
+.nav{
+    background-color:  chartreuse;
+    width: 100%;
+}
+
+.conteudo{
+    background-color: chartreuse;
+}
